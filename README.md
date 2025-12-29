@@ -1,11 +1,23 @@
 
-  # Raqeeb Prototype
+# Raqeeb Health Monitoring App
 
-  This is a code bundle for Raqeeb Prototype. The original project is available at https://www.figma.com/design/rxtXyK6FVoW6Tvh4MipzW0/Raqeeb-Prototype.
+A health monitoring application with role-based dashboards for patients, caregivers, and doctors.
 
-  ## Running the code
+## Features
+- Patient, Caregiver, and Doctor dashboards
+- Messaging system between doctors and caregivers
+- Vital signs monitoring
+- Medication tracking
+- Alerts system
 
-  Run `npm i` to install the dependencies.
+## Tech Stack
+- React
+- TypeScript
+- Tailwind CSS
+- Lucide React (icons)
 
-  Run `npm run dev` to start the development server.
+## Setup
+```bash
+npm install
+npm start
   
